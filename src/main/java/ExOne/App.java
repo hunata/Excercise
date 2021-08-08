@@ -1,3 +1,5 @@
+package ExOne;
+
 import java.util.Scanner;
 
 public class App {
